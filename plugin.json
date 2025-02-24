@@ -1,7 +1,7 @@
 {
     "name": "Run Python",
     "version": "0.0.1",
-    "description": "Description of run_python.",
+    "description": "Execute Python code through the Cheshire Cat. \n ⚠️ **SECURITY WARNING**: Code runs directly on the host system with the same permissions as the Cat. Use with extreme caution and only with trusted code.",
     "author_name": "Emanuele Morrone",
     "author_url": "https://github.com/Pingdred/",
     "plugin_url": "https://github.com/Pingdred/run_python",
