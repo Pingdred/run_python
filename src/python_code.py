@@ -70,7 +70,7 @@ class CodeForm(CatForm):
 
         settings = Settings(**self.cat.mad_hatter.get_plugin().load_settings())
         if settings.show_warnings:
-            confirm_message += "\n\n**WARNING**: This code will be executed in your system.\n**Make sure the code is safe to execute**
+            confirm_message += "\n\n**WARNING**: This code will be executed in your system.\n**Make sure the code is safe to execute**"
 
         confirm_message += "\nDo you want to execute this code?"
 
