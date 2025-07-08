@@ -1,6 +1,6 @@
 {
     "name": "Run Python",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Execute Python code through the Cheshire Cat. \n ⚠️ **SECURITY WARNING**: Code runs directly on the host system with the same permissions as the Cat. Use with extreme caution and only with trusted code.",
     "author_name": "Emanuele Morrone",
     "author_url": "https://github.com/Pingdred/",
