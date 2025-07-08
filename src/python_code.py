@@ -5,7 +5,7 @@ from pathlib import Path
 
 from cat.experimental.form import form, CatForm, CatFormState
 from .code_model import CodeModel
-from .settigns import Settings
+from .settings import Settings
 
 @form
 class CodeForm(CatForm):
